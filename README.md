@@ -1,3 +1,6 @@
+**Developing an Intelligent Agent for YouTube Transcriptions**
+
+
 <p align="center">
   <img src="https://github.com/VictorFrancheto/building-youtube-transcript-agent/blob/main/image.jpg">
 </p>
@@ -88,4 +91,22 @@ In the following project, we use **Ollama** combined with the **Llama3** model t
 
 ---
 
+## 🎬 AI Agent for YouTube Video Summarization  
+
+Now that we understand the fundamental concepts, let's put them into practice. We will develop an **AI Agent for YouTube Video Summarization**.  
+
+The goal of this agent is to **process YouTube video transcripts and generate summaries, extract key ideas, and highlight relevant quotes**. This allows users to quickly obtain essential information **without watching long videos**, saving time and making content consumption more efficient.  
+
+Key Features:  
+
+🎯 **Automatic Video Transcription** – Extract subtitles from YouTube videos.  
+📝 **Smart Summarization** – Generate concise and informative summaries.  
+💡 **Key Idea Extraction** – Highlight important insights from the video content.  
+📌 **Quote Identification** – Capture notable statements from the transcript.  
+
+With this AI agent, users can easily process video content and extract valuable information **on demand**.  
+
+---
+
 🚀 **Ready to build your own AI agent? Let’s get started!**  
+
