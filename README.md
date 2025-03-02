@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/VictorFrancheto/building-youtube-transcript-agent/blob/main/image.JPG" >
+  <img src="https://github.com/VictorFrancheto/building-youtube-transcript-agent/blob/main/image.jpg" >
 </p>
