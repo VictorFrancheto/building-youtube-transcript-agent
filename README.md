@@ -1,4 +1,4 @@
-# Developing an Intelligent Agent for YouTube Transcriptions
+# Building an Intelligent Agent for YouTube Transcriptions
 
 
 <p align="center">
